@@ -38,10 +38,10 @@ layers:
   - LEFT ALT
   - TAB
   - LEFT ALT
-  - {t: '2', h: toggle}
+  - {t: SPACE, h: '2'}
   - SPACE
   - ENTER
-  - {t: '1', h: toggle}
+  - {t: ENTER, h: '1'}
   - BACKSPACE
   '1':
   - '!'
@@ -84,7 +84,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   '2':
   - F1
@@ -124,7 +124,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
