@@ -16,7 +16,7 @@ layers:
   - D
   - F
   - G
-  - RIGHT ALT
+  - BT CLR ALL
   - H
   - J
   - K
@@ -28,7 +28,7 @@ layers:
   - V
   - B
   - F14
-  - BACKSPACE
+  - {t: BT, h: '0'}
   - N
   - M
   - ','
