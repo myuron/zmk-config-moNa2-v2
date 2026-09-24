@@ -65,7 +65,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - {t: ▽, type: trans}
+  - {t: '-', h: LEFT SHIFT}
   - <
   - '{'
   - '['
@@ -76,7 +76,7 @@ layers:
   - ']'
   - '}'
   - '>'
-  - {t: ▽, type: trans}
+  - '='
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -304,5 +304,3 @@ layers:
 combos:
 - p: [39, 38]
   k: {t: ESC, h: '4'}
-- p: [11, 12]
-  k: TAB
